@@ -1,0 +1,74 @@
+[
+    {
+        "scenario_id": "aa1012bc-a48c-48b0-b950-04cbc8705618",
+        "metric_name": "RMSE",
+        "stressed_value": 0.04651783305722731,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc",
+        "baseline_value": 0.03804439328294435,
+        "degradation_pct": -22.272505993890242,
+        "threshold": 10.0,
+        "status": "FAIL"
+    },
+    {
+        "scenario_id": "aa1012bc-a48c-48b0-b950-04cbc8705618",
+        "metric_name": "ECE",
+        "stressed_value": 0.23521657745066077,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc",
+        "baseline_value": 0.23072051442793343,
+        "degradation_pct": -1.948705356294491,
+        "threshold": 5.0,
+        "status": "PASS"
+    },
+    {
+        "scenario_id": "aa1012bc-a48c-48b0-b950-04cbc8705618",
+        "metric_name": "Subgroup_RMSE_Delta",
+        "stressed_value": 0.00738014571018699,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc",
+        "baseline_value": 0.009610687919712861,
+        "degradation_pct": -23.208975550550527,
+        "threshold": 15.0,
+        "status": "PASS"
+    },
+    {
+        "scenario_id": "30802e06-87a3-40ef-89b6-25a6fb7a232d",
+        "metric_name": "RMSE",
+        "stressed_value": 0.049012914956359226,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc",
+        "baseline_value": 0.03804439328294435,
+        "degradation_pct": -28.830849244564412,
+        "threshold": 10.0,
+        "status": "FAIL"
+    },
+    {
+        "scenario_id": "30802e06-87a3-40ef-89b6-25a6fb7a232d",
+        "metric_name": "ECE",
+        "stressed_value": 0.22585529209101607,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc",
+        "baseline_value": 0.23072051442793343,
+        "degradation_pct": 2.1087081697007184,
+        "threshold": 5.0,
+        "status": "PASS"
+    },
+    {
+        "scenario_id": "30802e06-87a3-40ef-89b6-25a6fb7a232d",
+        "metric_name": "Subgroup_RMSE_Delta",
+        "stressed_value": 0.00755660275971861,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc",
+        "baseline_value": 0.009610687919712861,
+        "degradation_pct": -21.372925405069452,
+        "threshold": 15.0,
+        "status": "PASS"
+    }
+]

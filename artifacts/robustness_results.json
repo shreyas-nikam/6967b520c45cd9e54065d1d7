@@ -1,0 +1,50 @@
+[
+    {
+        "scenario_id": "aa1012bc-a48c-48b0-b950-04cbc8705618",
+        "metric_name": "RMSE",
+        "stressed_value": 0.04651783305722731,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc"
+    },
+    {
+        "scenario_id": "aa1012bc-a48c-48b0-b950-04cbc8705618",
+        "metric_name": "ECE",
+        "stressed_value": 0.23521657745066077,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc"
+    },
+    {
+        "scenario_id": "aa1012bc-a48c-48b0-b950-04cbc8705618",
+        "metric_name": "Subgroup_RMSE_Delta",
+        "stressed_value": 0.00738014571018699,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc"
+    },
+    {
+        "scenario_id": "30802e06-87a3-40ef-89b6-25a6fb7a232d",
+        "metric_name": "RMSE",
+        "stressed_value": 0.049012914956359226,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc"
+    },
+    {
+        "scenario_id": "30802e06-87a3-40ef-89b6-25a6fb7a232d",
+        "metric_name": "ECE",
+        "stressed_value": 0.22585529209101607,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc"
+    },
+    {
+        "scenario_id": "30802e06-87a3-40ef-89b6-25a6fb7a232d",
+        "metric_name": "Subgroup_RMSE_Delta",
+        "stressed_value": 0.00755660275971861,
+        "description": "zxc",
+        "real_world_event": "zxc",
+        "expected_business_impact": "zxc"
+    }
+]
